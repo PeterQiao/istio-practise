@@ -1,2 +1,2 @@
-# loganalyzer
-This is the study project for apache spark streaming / zookeeper / flume / kafka
+# istio-practise
+This is the practise repo for istio
